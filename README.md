@@ -4,8 +4,6 @@
 Here are the Google Cloud Skill Badges I’ve earned through hands-on labs and challenge tasks on [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/091ac18f-11c5-49db-ab3f-eb6ef7df16ec/):
 
 
-🪄 *View all my badges on my [Google Cloud Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/091ac18f-11c5-49db-ab3f-eb6ef7df16ec)*
-
 <!--
 **Hasi0402/Hasi0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
